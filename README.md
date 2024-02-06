@@ -5,8 +5,11 @@ Experienced in utilizing SQL, Python, Machine Learning, PowerBI, Excel, and Post
 ### Technical Skills 💻
 
 • **Operating System:** Windows, Linux
+
 • **Languages:** Python, Java, C++
+
 • **Databases:** MySQL, MongoDB, PostgreSQL
+
 • **Technologies:** NumPy, Pandas, Matplotlib, Seaborn, Plotly, NLTK, Scikit-learn, TextBlob, OpenCV, YOLO, TensorFlow
 
 ### Projects 🚀
@@ -23,5 +26,7 @@ Implemented a comprehensive security solution integrating Face Recognition atten
 ### Academic Activities 🌟
 
 • Participated in e-Yantra Robotics Competition 2022-2023.
+
 • Engaged in the Smart India Hackathon 2022.
+
 • Contributed to various college-level Research Paper Competitions.
