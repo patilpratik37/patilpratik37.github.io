@@ -1,3 +1,9 @@
+# Pratik Patil 🚀
+
+### Data Analyst Fresher 
+
+📍 Mumbai, India | 📞 +91 (8356007233) | 📧 patilpratik37@email.com | 🌐 [LinkedIn](https://www.linkedin.com/in/patilpratik37/)
+
 ### About Me 📝
 
 Experienced in utilizing SQL, Python, Machine Learning, PowerBI, Excel, and PostgreSQL for thorough data analysis, visualization, and management. Proficient in statistical analysis, problem-solving, and data cleaning, ensuring precise and actionable insights. I am a proactive and detail-oriented individual pursuing a BE in Computer Engineering with a current CGPA of 7.1 from VIVA Institute of Technology, Virar. My educational background has equipped me with a robust foundation in various technical domains, with a focus on statistical analysis, problem-solving, and data cleaning.
