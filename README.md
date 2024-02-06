@@ -10,7 +10,9 @@ Experienced in utilizing SQL, Python, Machine Learning, PowerBI, Excel, and Post
 
 • **Databases:** MySQL, MongoDB, PostgreSQL
 
-• **Technologies:** NumPy, Pandas, Matplotlib, Seaborn, Plotly, NLTK, Scikit-learn, TextBlob, OpenCV, YOLO, TensorFlow
+• **Libraries:** NumPy, Pandas, Matplotlib, Seaborn, Plotly, NLTK, Scikit-learn, TextBlob, OpenCV, YOLO, TensorFlow
+
+* **Version Control:** Git
 
 ### Projects 🚀
 
