@@ -1,6 +1,6 @@
 # Pratik Patil 🚀
 
-### Data Analyst Fresher 
+### Data Analyst
 
 📍 Mumbai, India | 📞 +91 (8356007233) | 📧 patilpratik37@email.com | 🌐 [LinkedIn](https://www.linkedin.com/in/patilpratik37/)
 
