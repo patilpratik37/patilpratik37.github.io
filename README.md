@@ -4,24 +4,24 @@ Experienced in utilizing SQL, Python, Machine Learning, PowerBI, Excel, and Post
 
 ### Technical Skills 💻
 
-- **Operating System:** Windows, Linux
-- **Trained on:** Python, DSA, OOPS, SQL, Java, MongoDB, PostgreSQL
-- **Technologies:** Pandas, NumPy, Matplotlib, Seaborn, Plotly, Twitter API, NLTK, Scikit-learn, TextBlob, OpenCV, YOLO, TensorFlow
+• **Operating System:** Windows, Linux
+• **Languages:** Python, Java, C++
+• **Databases:** MySQL, MongoDB, PostgreSQL
+• **Technologies:** NumPy, Pandas, Matplotlib, Seaborn, Plotly, NLTK, Scikit-learn, TextBlob, OpenCV, YOLO, TensorFlow
 
 ### Projects 🚀
 
-1. **Netflix Data Analysis and Visualization:** 
-   Analyzed and visualized Netflix data using various data analysis techniques and visualization tools to generate insightful presentations.
+• **Netflix Data Analysis and Visualization:** 
+Analyzed and visualized Netflix data using various data analysis techniques and visualization tools to generate insightful presentations.
 
-2. **Twitlytics:** 
-   Conducted sentiment analysis to investigate employee turnover in Indian IT firms. Utilized the NLTK library and the XGBoost algorithm for effective analysis of extensive datasets.
+• **Twitlytics:** 
+Conducted sentiment analysis to investigate employee attrition in Indian IT industry. Utilized the NLTK library and the XGBoost algorithm for effective analysis of extensive datasets.
 
-3. **Enhanced Security Systems:** 
-   Contributed to improving community safety through quick monitoring, seamless integration, data optimization, automated identification, and effective crime detection.
+• **Enhanced Security Systems:** 
+Implemented a comprehensive security solution integrating Face Recognition attendance system and License Plate Detection for efficient and accurate attendance management.
 
-### Others 🌟
+### Academic Activities 🌟
 
-- **Academic Activities:** 
-  - Participated in e-Yantra Robotics Competition 2022-2023.
-  - Engaged in the Smart India Hackathon 2022.
-  - Contributed to various college-level Research Paper Competitions.
+• Participated in e-Yantra Robotics Competition 2022-2023.
+• Engaged in the Smart India Hackathon 2022.
+• Contributed to various college-level Research Paper Competitions.
