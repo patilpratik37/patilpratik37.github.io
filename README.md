@@ -25,10 +25,19 @@ Conducted sentiment analysis to investigate employee attrition in Indian IT indu
 • **Enhanced Security Systems:** 
 Implemented a comprehensive security solution integrating Face Recognition attendance system and License Plate Detection for efficient and accurate attendance management.
 
-### Academic Activities 🌟
+### Academic Activities 🤝
 
 • Participated in e-Yantra Robotics Competition 2022-2023.
 
 • Engaged in the Smart India Hackathon 2022.
 
 • Contributed to various college-level Research Paper Competitions.
+
+### Others 🌟
+
+In addition to my technical skills, I am passionate about leveraging technology to solve real-world problems and am always eager to learn and explore new domains. 🌐 Connect with me on [LinkedIn](www.linkedin.com/in/pratikpatil666) to discuss exciting opportunities or collaborate on innovative projects. Let's code a better future together! 🚀
+
+### Contact 📞
+
+- 📧 Email: [patilpratik37@gmail.com]
+- 🐦 LinkedIn: [@pratikpatil666](www.linkedin.com/in/pratikpatil666)
