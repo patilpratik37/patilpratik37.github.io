@@ -35,9 +35,9 @@ Implemented a comprehensive security solution integrating Face Recognition atten
 
 ### Others 🌟
 
-In addition to my technical skills, I am passionate about leveraging technology to solve real-world problems and am always eager to learn and explore new domains. 🌐 Connect with me on [LinkedIn](www.linkedin.com/in/patilpratik37) to discuss exciting opportunities or collaborate on innovative projects. Let's code a better future together! 🚀
+In addition to my technical skills, I am passionate about leveraging technology to solve real-world problems and am always eager to learn and explore new domains. 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/patilpratik37/) to discuss exciting opportunities or collaborate on innovative projects. Let's code a better future together! 🚀
 
 ### Contact 📞
 
 - 📧 Email: [patilpratik37@gmail.com]
-- 🐦 LinkedIn: [@pratikpatil666](www.linkedin.com/in/patilpratik37)
+- 🐦 LinkedIn: [@pratikpatil666](https://www.linkedin.com/in/patilpratik37/)
