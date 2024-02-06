@@ -46,4 +46,4 @@ In addition to my technical skills, I am passionate about leveraging technology 
 ### Contact 📞
 
 - 📧 Email: [patilpratik37@gmail.com]
-- 🐦 LinkedIn: [@pratikpatil666](https://www.linkedin.com/in/patilpratik37/)
+- 🐦 LinkedIn: [@patilpratik37](https://www.linkedin.com/in/patilpratik37/)
