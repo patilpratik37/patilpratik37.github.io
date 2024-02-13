@@ -35,7 +35,7 @@ Implemented a comprehensive security solution integrating Face Recognition atten
 
 • Participated in e-Yantra Robotics Competition 2022-2023.
 
-• Engaged in the Smart India Hackathon 2022.
+• Participated in the Smart India Hackathon 2022.
 
 • Contributed to various college-level Research Paper Competitions.
 
